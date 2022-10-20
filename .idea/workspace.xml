@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c02cd95-d420-45e1-9cc3-3f2580cc5fb5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../app_ahphs/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app_ahphs/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_ahphs/src/main/java/com/script/fairy/SingleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_ahphs/src/main/java/com/script/fairy/SingleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_ahphs/src/main/java/com/script/fairy/TaskMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_ahphs/src/main/java/com/script/fairy/TaskMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/bz16.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/bz16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/bz16.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/bz16.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/bz26.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/bz26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/bz26.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/bz26.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/bz27.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/bz27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/bz27.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/bz27.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/subtask_2446.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/subtask_2446.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/task_map.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/task_map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/script/fairy/SingleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/script/fairy/SingleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/script/fairy/TaskMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/script/fairy/TaskMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_dhhzl/src/main/java/com/script/fairy/SingleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_dhhzl/src/main/java/com/script/fairy/SingleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_jxqy/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app_jxqy/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_jxqy/src/main/assets/exam.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_jxqy/src/main/assets/exam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_jxqy/src/main/assets/exam1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_jxqy/src/main/assets/exam1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_jxqy/src/main/assets/exam1.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_jxqy/src/main/assets/exam1.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_jxqy/src/main/assets/stall2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_jxqy/src/main/assets/stall2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/GamePublicFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/GamePublicFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/LimitlessTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/LimitlessTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/SingleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/SingleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/TaskMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/TaskMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/TeamTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/TeamTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/TimingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_jxqy/src/main/java/com/script/fairy/TimingActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_dp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_dp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_dp/src/main/assets/wy1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_dp/src/main/assets/wy1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_dp/src/main/assets/wy1.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_dp/src/main/assets/wy1.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_dp/src/main/java/com/script/fairy/GamePublicFuntion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_dp/src/main/java/com/script/fairy/GamePublicFuntion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_dp/src/main/java/com/script/fairy/LimitlessTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_dp/src/main/java/com/script/fairy/LimitlessTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_dp/src/main/java/com/script/fairy/SingleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_dp/src/main/java/com/script/fairy/SingleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_dp/src/main/java/com/script/fairy/TaskMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_dp/src/main/java/com/script/fairy/TaskMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_mhxy/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_mhxy/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_mhxy/src/main/assets/ddzg4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_mhxy/src/main/assets/ddzg4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_mhxy/src/main/assets/ddzg4.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_mhxy/src/main/assets/ddzg4.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_mhxy/src/main/java/com/script/fairy/Abnormal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_mhxy/src/main/java/com/script/fairy/Abnormal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_mhxy/src/main/java/com/script/fairy/GamePublicFuntion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_mhxy/src/main/java/com/script/fairy/GamePublicFuntion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_mhxy/src/main/java/com/script/fairy/SingleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_mhxy/src/main/java/com/script/fairy/SingleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_mhxy/src/main/java/com/script/fairy/TaskMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_mhxy/src/main/java/com/script/fairy/TaskMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_new_mhxy/src/main/java/com/script/fairy/TeamTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_new_mhxy/src/main/java/com/script/fairy/TeamTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/myg.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/myg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/myg.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/myg.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/paogan.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/paogan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/paogan.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/paogan.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/shougan.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/shougan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/shougan.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/shougan.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/sure.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/sure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/sure.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/sure.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/sybt.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/sybt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/sybt.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/sybt.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/tuijian.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/tuijian.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/tuijian.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/tuijian.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/zdset.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/zdset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/assets/zdset.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/assets/zdset.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/java/com/script/fairy/GamePublicFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/java/com/script/fairy/GamePublicFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/java/com/script/fairy/LimitlessTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/java/com/script/fairy/LimitlessTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/java/com/script/fairy/Other.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/java/com/script/fairy/Other.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/java/com/script/fairy/SingleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/java/com/script/fairy/SingleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_sw/src/main/java/com/script/fairy/TaskMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_sw/src/main/java/com/script/fairy/TaskMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_tlbb/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app_tlbb/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_tlbb/src/main/java/com/script/fairy/LimitlessTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_tlbb/src/main/java/com/script/fairy/LimitlessTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_tlbb/src/main/java/com/script/fairy/SingleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_tlbb/src/main/java/com/script/fairy/SingleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_tlbb/src/main/java/com/script/fairy/TaskMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_tlbb/src/main/java/com/script/fairy/TaskMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_wgjx/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app_wgjx/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_wgjx/src/main/java/com/script/fairy/GamePublicFuntion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_wgjx/src/main/java/com/script/fairy/GamePublicFuntion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_wgjx/src/main/java/com/script/fairy/TaskMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_wgjx/src/main/java/com/script/fairy/TaskMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/activity1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/activity1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/activity1.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/activity1.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/activity3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/activity3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/activity3.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/activity3.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/jihe.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/jihe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/jihe.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/jihe.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling11.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling11.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling11.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling16.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling16.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling16.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling4.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling4.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling8.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/ling8.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/lj2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/lj2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/lj2.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/lj2.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank13.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank13.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank13.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank17.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank17.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank17.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank18.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank18.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank18.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank5.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank5.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank8.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/rank8.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/xlyy8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/xlyy8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/assets/xlyy8.png.info" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/assets/xlyy8.png.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/Abnormal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/Abnormal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/GamePublicFuntion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/GamePublicFuntion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/SingleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/SingleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/TaskContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/TaskContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/TaskMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/TaskMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/TeamTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_xy3d/src/main/java/com/script/fairy/TeamTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_ylzt/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app_ylzt/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_ylzt/src/main/java/com/script/fairy/Abnormal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_ylzt/src/main/java/com/script/fairy/Abnormal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_ylzt/src/main/java/com/script/fairy/TaskMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_ylzt/src/main/java/com/script/fairy/TaskMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../openCVLibrary341/src/main/java/org/opencv/core/Scalar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../openCVLibrary341/src/main/java/org/opencv/core/Scalar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xqnyh/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../xqnyh/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/GameUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/GameUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/LimitlessTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/LimitlessTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/OtherGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/OtherGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/SingleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/SingleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/TaskMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/TaskMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/TimingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xqnyh/src/main/java/com/script/fairy/TimingActivity.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GNr7zdz5SzDTLHqesuoV91XYRm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../Android/android-sdk_r24.4.1-windows/android-sdk-windows" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c02cd95-d420-45e1-9cc3-3f2580cc5fb5" name="Default Changelist" comment="" />
+      <created>1666239718541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666239718541</updated>
+    </task>
+    <servers />
+  </component>
+</project>
